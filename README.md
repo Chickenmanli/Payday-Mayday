@@ -3,3 +3,5 @@ Computer graphics school project - Windows 10 - Google Chrome - Javascript - Ope
 
 Description
 A puzzle maze first person game involving 3D objects.  The objective of the game is to navigate through the maze to reach the coin to complete the level.  Controls and mechanic descriptions are under "Comp 3490 Final/images/welcome.png" or also shown at the start of the game.
+
+I am looking for advice for any better coding techniques, potential bugs, or useful ideas for this project.
